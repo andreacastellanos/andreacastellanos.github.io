@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chat Room Server and Client
-type:  project
+type: project
 permalink: projects/chat-room-server-and-client
 ---
 

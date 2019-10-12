@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Spell Checker
-type:  project
+type: project
 permalink: projects/spell-checker
 ---
 
