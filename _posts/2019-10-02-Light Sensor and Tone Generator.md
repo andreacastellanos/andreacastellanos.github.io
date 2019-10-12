@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Light Sensor and Tone Generator
+type:  project
 permalink: projects/light-sensor-and-tone-generator
 ---
 
