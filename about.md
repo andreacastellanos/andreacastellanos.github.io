@@ -1,10 +1,11 @@
 ---
 layout: default
 title: About
-description: 
 permalink: /about/
 
 ---
+
+Software Engineer in the NYC area. 
 
 [Github](https://www.github.com/andreacastellanos)
 
