@@ -8,10 +8,14 @@ permalink: projects/locations-graph
 
 Digraph.hpp and main.cpp are the main project files that use the rest of the files, which are the barebones for the project.
 
+Output:
+
+![output](/assets/images/projects/locations graph/output.png)
+
 
 Digraph.hpp
 
-![Digraph.](/assets/images/projects/locations graph/digraph-hpp.png)
+![Digraph.hpp](/assets/images/projects/locations graph/digraph-hpp.png)
 
 
 main.cpp
