@@ -12,5 +12,3 @@ Software Engineer in the NYC area.
 [LinkedIn](https://www.linkedin.com/in/andreacastellanosp/)
 
 [Email](mailto:castellanosp.andrea@gmail.com)
-
-[back](./)

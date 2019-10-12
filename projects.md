@@ -24,6 +24,3 @@ permalink: /projects/
 [Safe rm](/projects/safe-rm)
 
 [Spell Checker](/projects/spell-checker)
-
-
-[back](./)
