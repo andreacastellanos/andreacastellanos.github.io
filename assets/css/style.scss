@@ -4,26 +4,45 @@
 @import 'jekyll-theme-cayman';
 
 .index-body {  
-    background-image: url("/assets/images/cali.jpg");
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:center;  
+  background-image: url("/assets/images/cali.jpg");
+  position: center;
+  background-repeat:no-repeat;
+  background-size:100% 100vh;
 }
 
 // _sass\jekyll-theme-cayman.scss
-.page-header-custom {
-    text-align: center;
-  
-    @include large {
-      padding: 5rem 6rem;
-    }
-  
-    @include medium {
-      padding: 3rem 4rem;
-    }
-  
-    @include small {
-      padding: 2rem 1rem;
-    }
+.index-page-header {
+  text-align: center;
+  color: white;
+
+  @include large {
+    padding: 5rem 6rem;
   }
-  
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
+
+.page-header {
+  background-image: url("/assets/images/cali.jpg");
+  position: center;
+  background-repeat:no-repeat;
+  background-size:100% 100vh;
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
