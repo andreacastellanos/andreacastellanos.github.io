@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Locations Graph
 permalink: projects/locations-graph
 ---
 

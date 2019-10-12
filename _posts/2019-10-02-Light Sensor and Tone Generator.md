@@ -14,6 +14,6 @@ permalink: projects/light-sensor-and-tone-generator
 	Minimum frequency is 1046Hz and maximum is 2093Hz.
 
 
-![light sensor and tone generator](/assets/images/projects/light sensor and tone generator.png)
+![light sensor and tone generator](/assets/images/projects/light sensor and tone generator/main.png)
 
 [back](./)

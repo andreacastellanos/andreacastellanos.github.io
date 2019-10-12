@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Maze Generator and Solver
 permalink: projects/maze-generator-and-solver
 ---
 

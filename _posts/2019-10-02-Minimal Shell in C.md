@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Minimal Shell in C
 permalink: projects/minimal-shell-in-c
 ---
 

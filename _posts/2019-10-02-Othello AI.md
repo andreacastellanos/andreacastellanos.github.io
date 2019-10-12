@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title: Othello AI
 permalink: projects/othello-ai
 ---
 
