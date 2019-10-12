@@ -23,6 +23,14 @@ Makefile:
 
 ![makefile](/assets/images/projects/chat room server and client/makefile.png)
 
-![](/assets/images/projects/.png)
+
+Server:
+
+![server](/assets/images/projects/chat room server and client/server.png)
+
+
+Client:
+
+![client](/assets/images/projects/chat room server and client/client.png)
 
 [back](./)
