@@ -2,3 +2,28 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.index-body {  
+    background-image: url("/assets/images/cali.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;  
+}
+
+// _sass\jekyll-theme-cayman.scss
+.page-header-custom {
+    text-align: center;
+  
+    @include large {
+      padding: 5rem 6rem;
+    }
+  
+    @include medium {
+      padding: 3rem 4rem;
+    }
+  
+    @include small {
+      padding: 2rem 1rem;
+    }
+  }
+  
