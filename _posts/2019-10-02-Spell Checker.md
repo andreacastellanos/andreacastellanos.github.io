@@ -18,6 +18,22 @@ In the image below, you will see the performance of the HashSet. HashSet was the
 ![Output based on performance](/assets/images/projects/spell checker/output-time.png)
 
 
+
+`BSTSet:`
+
+![BSTSet](/assets/images/projects/spell checker/bstset.png)
+
+
+`AVLSet:`
+
+![AVLSet](/assets/images/projects/spell checker/avlset.png)
+
+
+`HashSet:`
+
+![HashSet](/assets/images/projects/spell checker/hashset.png)
+
+
 `OtherFunctions.hpp:`
 
 ![otherfunctions.hpp](/assets/images/projects/spell checker/otherfunctions-hpp.png)
@@ -25,12 +41,17 @@ In the image below, you will see the performance of the HashSet. HashSet was the
 
 `OtherFunctions.cpp:`
 
-![otherfunctions.hpp](/assets/images/projects/spell checker/otherfunctions-hpp.png)
+![otherfunctions.hpp](/assets/images/projects/spell checker/otherfunctions-cpp.png)
 
 
 `WordChecker.hpp:`
 
 ![wordchecker.hpp](/assets/images/projects/spell checker/wordchecker-hpp.png)
+
+
+`WordChecker.cpp:`
+
+![wordchecker.cpp](/assets/images/projects/spell checker/wordchecker-cpp.png)
 
 
 [back](./)
