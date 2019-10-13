@@ -16,32 +16,32 @@ Below is a gif of that maze being solved. In this case, all locations were explo
 
 MyMazeGenerator.hpp
 
-![](/assets/images/projects/maze generator and solver/mymazegenerator-hpp.png)
+![MyMazeGenerator.hpp](/assets/images/projects/maze generator and solver/mymazegenerator-hpp.png)
 
 
 MyMazeGenerator.cpp
 
-![](/assets/images/projects/maze generator and solver/mymazegenerator-cpp.png)
+![MyMazeGenerator.cpp](/assets/images/projects/maze generator and solver/mymazegenerator-cpp.png)
 
 
 MyMazeSolver.hpp
 
-![](/assets/images/projects/maze generator and solver/mymazesolver-hpp.png)
+![MyMazeSolver.hpp](/assets/images/projects/maze generator and solver/mymazesolver-hpp.png)
 
 
 MyMazeSolver.cpp
 
-![](/assets/images/projects/maze generator and solver/mymazesolver-cpp.png)
+![MyMazeSolver.cpp](/assets/images/projects/maze generator and solver/mymazesolver-cpp.png)
 
 
 HelperFunctions.hpp
 
-![](/assets/images/projects/maze generator and solver/helperfunctions-hpp.png)
+![HelperFunctions.hpp](/assets/images/projects/maze generator and solver/helperfunctions-hpp.png)
 
 
 HelperFunctions.cpp
 
-![](/assets/images/projects/maze generator and solver/helperfunctions-cpp.png)
+![HelperFunctions.cpp](/assets/images/projects/maze generator and solver/helperfunctions-cpp.png)
 
 
 [back](./)
