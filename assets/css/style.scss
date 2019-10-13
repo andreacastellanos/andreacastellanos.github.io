@@ -10,6 +10,7 @@
   background-size:100% 100vh;
 }
 
+// _sass\jekyll-theme-cayman.scss
 .index-page-header {
   text-align: center;
   color: white;
@@ -27,7 +28,6 @@
   }
 }
 
-// _sass\jekyll-theme-cayman.scss
 .page-header {
   background-image: url("/assets/images/cali.jpg");
   position: center;
@@ -42,4 +42,9 @@
     margin: 0 auto;
     font-size: 1.1rem;
   }
+}
+
+.image-opacity {
+  opacity:0.7;
+  height:24px
 }
