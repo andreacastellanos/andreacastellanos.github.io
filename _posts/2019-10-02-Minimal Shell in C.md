@@ -42,27 +42,27 @@ NOTES
     Any program that is viable with execvp, or a standard shell, will work with msh. 
 
 
-Makefile
+`Makefile:`
 
 ![parser.h](/assets/images/projects/minimal shell in c/makefile.png)
 
 
-main.c
+`main.c:`
 
 ![main.c](/assets/images/projects/minimal shell in c/main.png)
 
 
-paser.h
+`paser.h:`
 
 ![parser.h](/assets/images/projects/minimal shell in c/parser-h.png)
 
 
-parser.c
+`parser.c:`
 
 ![parser.c](/assets/images/projects/minimal shell in c/parser-c.png)
 
 
-msh.c
+`msh.c:`
 
 ![msh.c](/assets/images/projects/minimal shell in c/msh.png)
 

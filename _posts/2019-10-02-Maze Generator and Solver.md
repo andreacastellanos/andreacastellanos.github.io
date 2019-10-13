@@ -14,32 +14,32 @@ Below is a gif of that maze being solved. In this case, all locations were explo
 ![Solving the maze](/assets/images/projects/maze generator and solver/solve-maze.gif)
 
 
-MyMazeGenerator.hpp
+`MyMazeGenerator.hpp:`
 
 ![MyMazeGenerator.hpp](/assets/images/projects/maze generator and solver/mymazegenerator-hpp.png)
 
 
-MyMazeGenerator.cpp
+`MyMazeGenerator.cpp:`
 
 ![MyMazeGenerator.cpp](/assets/images/projects/maze generator and solver/mymazegenerator-cpp.png)
 
 
-MyMazeSolver.hpp
+`MyMazeSolver.hpp:`
 
 ![MyMazeSolver.hpp](/assets/images/projects/maze generator and solver/mymazesolver-hpp.png)
 
 
-MyMazeSolver.cpp
+`MyMazeSolver.cpp:`
 
 ![MyMazeSolver.cpp](/assets/images/projects/maze generator and solver/mymazesolver-cpp.png)
 
 
-HelperFunctions.hpp
+`HelperFunctions.hpp:`
 
 ![HelperFunctions.hpp](/assets/images/projects/maze generator and solver/helperfunctions-hpp.png)
 
 
-HelperFunctions.cpp
+`HelperFunctions.cpp:`
 
 ![HelperFunctions.cpp](/assets/images/projects/maze generator and solver/helperfunctions-cpp.png)
 

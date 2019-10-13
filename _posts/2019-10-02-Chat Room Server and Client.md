@@ -20,17 +20,17 @@ In order to leave the chat room (this will close the program):
     LEAVE <your username>
 
 
-Makefile:
+`Makefile:`
 
 ![makefile](/assets/images/projects/chat room server and client/makefile.png)
 
 
-Server:
+`Server:`
 
 ![server](/assets/images/projects/chat room server and client/server.png)
 
 
-Client:
+`Client:`
 
 ![client](/assets/images/projects/chat room server and client/client.png)
 
