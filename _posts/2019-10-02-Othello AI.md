@@ -6,7 +6,20 @@ permalink: projects/othello-ai
 ---
 
 
+A game played by the AI as both black and white:
 
-![](/assets/images/projects/.png)
+![aigame](/assets/images/projects/othello ai/aigame.png)
+
+
+`MyOthelloAI.hpp:`
+
+![MyOthelloAI.hpp](/assets/images/projects/otherllo ai/myothelloai-hpp.png)
+
+
+`MyOthelloAI.cpp:`
+
+![MyOthelloAI.cpp](/assets/images/projects/otherllo ai/myothelloai-cpp.png)
+
+
 
 [back](./)
