@@ -13,12 +13,12 @@ A game played by the AI as both black and white:
 
 `MyOthelloAI.hpp:`
 
-![MyOthelloAI.hpp](/assets/images/projects/otherllo ai/myothelloai-hpp.png)
+![MyOthelloAI.hpp](/assets/images/projects/othello ai/myothelloai-hpp.png)
 
 
 `MyOthelloAI.cpp:`
 
-![MyOthelloAI.cpp](/assets/images/projects/otherllo ai/myothelloai-cpp.png)
+![MyOthelloAI.cpp](/assets/images/projects/othello ai/myothelloai-cpp.png)
 
 
 
