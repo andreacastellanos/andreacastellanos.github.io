@@ -5,11 +5,11 @@ type: project
 permalink: projects/maze-generator-and-solver
 ---
 
-Below is a gif of a maze being generated
+Below is a gif of a maze being generated.
 
 ![Generating a maze](/assets/images/projects/maze generator and solver/gen-maze.gif)
 
-Below is a gif of that maze being solved. In this case, all locations were explored before the destination was reached, which is rare.
+Below is a gif of that maze being solved.
 
 ![Solving the maze](/assets/images/projects/maze generator and solver/solve-maze.gif)
 
