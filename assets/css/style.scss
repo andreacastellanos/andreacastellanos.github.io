@@ -3,11 +3,12 @@
 
 @import 'jekyll-theme-cayman';
 
-.index-body {  
-  background-image: url("/assets/images/cali.jpg");
-  position: center;
-  background-repeat:no-repeat;
-  background-size:100% 100vh;
+.page-header {
+  background: url("/assets/images/cali-cropped.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 // _sass\jekyll-theme-cayman.scss
@@ -26,13 +27,6 @@
   @include small {
     padding: 2rem 1rem;
   }
-}
-
-.page-header {
-  background-image: url("/assets/images/cali.jpg");
-  position: center;
-  background-repeat:no-repeat;
-  background-size:100% 100vh;
 }
 
 .project-content {
