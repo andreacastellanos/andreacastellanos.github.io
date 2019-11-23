@@ -2,7 +2,6 @@
 layout: default
 title: Projects
 permalink: /projects/
-
 ---
 
 [Digital-to-Analog Potentiometer LED](/projects/dac-potentiometer-led)
